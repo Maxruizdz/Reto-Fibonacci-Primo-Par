@@ -1,0 +1,14 @@
+C:\Users\usuario\Desktop\Prueba-4\Prueba_Par_Fibo_impar\bin\Debug\net7.0\Prueba_Par_Fibo_impar.exe
+C:\Users\usuario\Desktop\Prueba-4\Prueba_Par_Fibo_impar\bin\Debug\net7.0\Prueba_Par_Fibo_impar.deps.json
+C:\Users\usuario\Desktop\Prueba-4\Prueba_Par_Fibo_impar\bin\Debug\net7.0\Prueba_Par_Fibo_impar.runtimeconfig.json
+C:\Users\usuario\Desktop\Prueba-4\Prueba_Par_Fibo_impar\bin\Debug\net7.0\Prueba_Par_Fibo_impar.dll
+C:\Users\usuario\Desktop\Prueba-4\Prueba_Par_Fibo_impar\bin\Debug\net7.0\Prueba_Par_Fibo_impar.pdb
+C:\Users\usuario\Desktop\Prueba-4\Prueba_Par_Fibo_impar\obj\Debug\net7.0\Prueba_Par_Fibo_impar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\Prueba-4\Prueba_Par_Fibo_impar\obj\Debug\net7.0\Prueba_Par_Fibo_impar.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\Prueba-4\Prueba_Par_Fibo_impar\obj\Debug\net7.0\Prueba_Par_Fibo_impar.AssemblyInfo.cs
+C:\Users\usuario\Desktop\Prueba-4\Prueba_Par_Fibo_impar\obj\Debug\net7.0\Prueba_Par_Fibo_impar.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Prueba-4\Prueba_Par_Fibo_impar\obj\Debug\net7.0\Prueba_Par_Fibo_impar.dll
+C:\Users\usuario\Desktop\Prueba-4\Prueba_Par_Fibo_impar\obj\Debug\net7.0\refint\Prueba_Par_Fibo_impar.dll
+C:\Users\usuario\Desktop\Prueba-4\Prueba_Par_Fibo_impar\obj\Debug\net7.0\Prueba_Par_Fibo_impar.pdb
+C:\Users\usuario\Desktop\Prueba-4\Prueba_Par_Fibo_impar\obj\Debug\net7.0\Prueba_Par_Fibo_impar.genruntimeconfig.cache
+C:\Users\usuario\Desktop\Prueba-4\Prueba_Par_Fibo_impar\obj\Debug\net7.0\ref\Prueba_Par_Fibo_impar.dll
