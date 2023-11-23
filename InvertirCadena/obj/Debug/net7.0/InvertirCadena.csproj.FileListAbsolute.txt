@@ -1,0 +1,14 @@
+C:\Users\usuario\Desktop\Prueba-4\InvertirCadena\bin\Debug\net7.0\InvertirCadena.exe
+C:\Users\usuario\Desktop\Prueba-4\InvertirCadena\bin\Debug\net7.0\InvertirCadena.deps.json
+C:\Users\usuario\Desktop\Prueba-4\InvertirCadena\bin\Debug\net7.0\InvertirCadena.runtimeconfig.json
+C:\Users\usuario\Desktop\Prueba-4\InvertirCadena\bin\Debug\net7.0\InvertirCadena.dll
+C:\Users\usuario\Desktop\Prueba-4\InvertirCadena\bin\Debug\net7.0\InvertirCadena.pdb
+C:\Users\usuario\Desktop\Prueba-4\InvertirCadena\obj\Debug\net7.0\InvertirCadena.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\Prueba-4\InvertirCadena\obj\Debug\net7.0\InvertirCadena.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\Prueba-4\InvertirCadena\obj\Debug\net7.0\InvertirCadena.AssemblyInfo.cs
+C:\Users\usuario\Desktop\Prueba-4\InvertirCadena\obj\Debug\net7.0\InvertirCadena.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Prueba-4\InvertirCadena\obj\Debug\net7.0\InvertirCadena.dll
+C:\Users\usuario\Desktop\Prueba-4\InvertirCadena\obj\Debug\net7.0\refint\InvertirCadena.dll
+C:\Users\usuario\Desktop\Prueba-4\InvertirCadena\obj\Debug\net7.0\InvertirCadena.pdb
+C:\Users\usuario\Desktop\Prueba-4\InvertirCadena\obj\Debug\net7.0\InvertirCadena.genruntimeconfig.cache
+C:\Users\usuario\Desktop\Prueba-4\InvertirCadena\obj\Debug\net7.0\ref\InvertirCadena.dll

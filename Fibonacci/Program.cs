@@ -49,4 +49,4 @@ for (int i = 0; i < numero_ingresado; i++) {
 
 
 
-Console.WriteLine(" " + resultado);
+Console.WriteLine(resultado);
