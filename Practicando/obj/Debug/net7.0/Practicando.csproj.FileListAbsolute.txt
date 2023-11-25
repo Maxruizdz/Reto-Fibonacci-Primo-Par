@@ -1,0 +1,14 @@
+C:\Users\usuario\Desktop\Prueba-4\Practicando\bin\Debug\net7.0\Practicando.exe
+C:\Users\usuario\Desktop\Prueba-4\Practicando\bin\Debug\net7.0\Practicando.deps.json
+C:\Users\usuario\Desktop\Prueba-4\Practicando\bin\Debug\net7.0\Practicando.runtimeconfig.json
+C:\Users\usuario\Desktop\Prueba-4\Practicando\bin\Debug\net7.0\Practicando.dll
+C:\Users\usuario\Desktop\Prueba-4\Practicando\bin\Debug\net7.0\Practicando.pdb
+C:\Users\usuario\Desktop\Prueba-4\Practicando\obj\Debug\net7.0\Practicando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\Prueba-4\Practicando\obj\Debug\net7.0\Practicando.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\Prueba-4\Practicando\obj\Debug\net7.0\Practicando.AssemblyInfo.cs
+C:\Users\usuario\Desktop\Prueba-4\Practicando\obj\Debug\net7.0\Practicando.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Prueba-4\Practicando\obj\Debug\net7.0\Practicando.dll
+C:\Users\usuario\Desktop\Prueba-4\Practicando\obj\Debug\net7.0\refint\Practicando.dll
+C:\Users\usuario\Desktop\Prueba-4\Practicando\obj\Debug\net7.0\Practicando.pdb
+C:\Users\usuario\Desktop\Prueba-4\Practicando\obj\Debug\net7.0\Practicando.genruntimeconfig.cache
+C:\Users\usuario\Desktop\Prueba-4\Practicando\obj\Debug\net7.0\ref\Practicando.dll
