@@ -41,7 +41,7 @@ string palabra_inver= new string(chars);
 
 Console.WriteLine(palabra_inver); 
 */
-//Ejercicio 3: Verificar Palíndromos
+/*Ejercicio 3: Verificar Palíndromos
 
 string palabra = "Neuquen";
 palabra =palabra.Trim();
@@ -55,7 +55,37 @@ if (string.Compare(palabra, palabra2, StringComparison.OrdinalIgnoreCase)==0) {
     Console.WriteLine($"La palabra {palabra} es un palindromo");
 
 }
-else Console.WriteLine($"La palabra {palabra} no es palindromo");
+else Console.WriteLine($"La palabra {palabra} no es palindromo");*/
+
+List<int> listaConDuplicados = new List<int> { 3, 7, 9, 4, 6, 8, 2, 1, 5};
+int cont = 0;
+bool repetido=false;
 
 
 
+foreach (var item in listaConDuplicados)
+{
+
+    int numero = listaConDuplicados.Where(p=> p==item).Count();
+
+    if (numero >1) {
+    repetido=true;
+    
+    
+    }
+   
+}
+
+
+
+
+if (repetido == true)
+{
+
+    Console.WriteLine("La lista tiene elementos repetidos");
+
+}
+else {
+    Console.WriteLine("La lista no tiene elementos repetidos");
+
+}
