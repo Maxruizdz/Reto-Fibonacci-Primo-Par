@@ -1,28 +1,36 @@
 ﻿
-
-for (int i = 1; i <= 100; i++) {
-    string resultado = "";
-    if (i % 3 == 0) {
+List<int> lista_numeros = new List<int>() {77, 1,2,3,4,55,66,21,6};
 
 
-        resultado += "Fizz";
+
+
+
+
+
+for (int i = 0; i < lista_numeros.Count-1; i++)
+{
+
+    for (int j = 0; j < lista_numeros.Count -1; j++) {
+
+
+
+        if (lista_numeros[j] > lista_numeros[j+1]) {
+
+            int numero_mayor = lista_numeros[j];
+            lista_numeros[j] = lista_numeros[j+1];
+            lista_numeros[j+1]=numero_mayor;
+        
+        
+        
+        }
     
     
     }
-    if (i % 5 == 0) {
 
-        resultado += "Buzz";
-
-
-    }
-
-    if (string.IsNullOrWhiteSpace(resultado)) {
-    
-    resultado = i.ToString();
-    
-    }
-
-
-    Console.WriteLine(resultado);
 
 }
+
+foreach (var num in lista_numeros) {
+    Console.WriteLine(num);
+}
+
